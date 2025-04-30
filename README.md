@@ -137,6 +137,7 @@ Dashboard features:
 • Storage: SQL, CSV
 • Data Access: NTES API, Kaggle Datasets
 
+
 7. Results and Discussion
 
 • The predictive accuracy surpassed 85%, demonstrating the model's resilience.
@@ -147,6 +148,9 @@ Dashboard features:
 
  • Prediction error remained within allowable bounds when predictions were validated using real-time NTES data.
  • Passengers were shown the real-time forecasting system and gave it positive feedback.
+
+
+
 
 8. Conclusion
 
@@ -177,15 +181,13 @@ Appendix A: Data Schema
 Appendix B: Code Snippets
 
 ## Git Link :-
+https://github.com/BYASHCHANDRASAH/Punctual-Rails.git
 
 Appendix C: Model Accuracy Tables
 
 
 
 
-Appendix D: Dashboard Screenshots
-
-(*Images would be embedded in Word version*)
 
 
 
